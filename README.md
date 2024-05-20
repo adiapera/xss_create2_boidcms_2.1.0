@@ -1,7 +1,7 @@
 # XSS in BoidCMS 2.1.0 (/admin -> Create)
 **Software link:** BoidCMS 2.1.0 [https://boidcms.github.io/#/] -> Download
 
-**@author:** Antonio Díaz.
+**@author:** Antonio Díaz Pérez.
 
 **Description:** Cross-site scripting (XSS) vulnerability in the Create section of the Admin Page of BoidCMS 2.1.0 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into 'Content' parameter.
 
